@@ -1,0 +1,5 @@
+set_property PACKAGE_PIN M22 [get_ports a]
+set_property IOSTANDARD LVCMOS33 [get_ports a]
+set_property IOSTANDARD LVCMOS33 [get_ports b]
+set_property IOSTANDARD LVCMOS33 [get_ports out]
+set_property IOSTANDARD LVCMOS33 [get_ports sel]
